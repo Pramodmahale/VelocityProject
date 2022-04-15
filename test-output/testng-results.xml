@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-15T17:57:55 IST" name="sauceDemov1Suite" finished-at="2022-04-15T17:59:50 IST" duration-ms="115221">
+    <groups>
+    </groups>
+    <test started-at="2022-04-15T17:57:55 IST" name="Test1" finished-at="2022-04-15T17:58:23 IST" duration-ms="28073">
+      <class name="com.SauceDemo.TestClasses.TC01LoginFunctionality">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@63a12c68]" started-at="2022-04-15T17:57:55 IST" name="openBrowser" finished-at="2022-04-15T17:58:07 IST" duration-ms="11885" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@63a12c68]" started-at="2022-04-15T17:58:07 IST" name="setUpMethod" finished-at="2022-04-15T17:58:08 IST" duration-ms="1368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@63a12c68]" started-at="2022-04-15T17:58:08 IST" name="closeBrowser" finished-at="2022-04-15T17:58:11 IST" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC01LoginFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC03ClickOncartButton">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@32b260fa]" started-at="2022-04-15T17:57:55 IST" name="openBrowser" finished-at="2022-04-15T17:58:07 IST" duration-ms="12090" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@32b260fa]" started-at="2022-04-15T17:58:07 IST" name="setUpMethod" finished-at="2022-04-15T17:58:09 IST" duration-ms="1358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="VerifyableToBuyProd()[pri:2, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@32b260fa]" started-at="2022-04-15T17:58:09 IST" name="VerifyableToBuyProd" finished-at="2022-04-15T17:58:09 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyableToBuyProd -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@32b260fa]" started-at="2022-04-15T17:58:09 IST" name="tearDownMethod" finished-at="2022-04-15T17:58:09 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@32b260fa]" started-at="2022-04-15T17:58:09 IST" name="closeBrowser" finished-at="2022-04-15T17:58:14 IST" duration-ms="4437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC03ClickOncartButton -->
+      <class name="com.SauceDemo.TestClasses.TC02AddtochartFunctionality">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@49c7b90e]" started-at="2022-04-15T17:57:55 IST" name="openBrowser" finished-at="2022-04-15T17:58:07 IST" duration-ms="11990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@49c7b90e]" started-at="2022-04-15T17:58:07 IST" name="setUpMethod" finished-at="2022-04-15T17:58:08 IST" duration-ms="1091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@49c7b90e]" started-at="2022-04-15T17:58:10 IST" name="closeBrowser" finished-at="2022-04-15T17:58:14 IST" duration-ms="4016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC02AddtochartFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC05BuyingProd">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC05BuyingProd@1b1426f4]" started-at="2022-04-15T17:57:55 IST" name="openBrowser" finished-at="2022-04-15T17:58:08 IST" duration-ms="13148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC05BuyingProd@1b1426f4]" started-at="2022-04-15T17:58:08 IST" name="setUpMethod" finished-at="2022-04-15T17:58:09 IST" duration-ms="1031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="TC05VerifyTheYourInfoInCartButt()[pri:4, instance:com.SauceDemo.TestClasses.TC05BuyingProd@1b1426f4]" started-at="2022-04-15T17:58:09 IST" name="TC05VerifyTheYourInfoInCartButt" finished-at="2022-04-15T17:58:10 IST" duration-ms="993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05VerifyTheYourInfoInCartButt -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC05BuyingProd@1b1426f4]" started-at="2022-04-15T17:58:10 IST" name="tearDownMethod" finished-at="2022-04-15T17:58:11 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC05BuyingProd@1b1426f4]" started-at="2022-04-15T17:58:11 IST" name="closeBrowser" finished-at="2022-04-15T17:58:14 IST" duration-ms="3147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC05BuyingProd -->
+      <class name="com.SauceDemo.TestClasses.TC06VerifyLogout">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@28f3b248]" started-at="2022-04-15T17:58:14 IST" name="openBrowser" finished-at="2022-04-15T17:58:20 IST" duration-ms="6403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@28f3b248]" started-at="2022-04-15T17:58:20 IST" name="setUpMethod" finished-at="2022-04-15T17:58:21 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="TC06VerifyLogoutFunctionality()[pri:6, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@28f3b248]" started-at="2022-04-15T17:58:21 IST" name="TC06VerifyLogoutFunctionality" finished-at="2022-04-15T17:58:21 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06VerifyLogoutFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@28f3b248]" started-at="2022-04-15T17:58:21 IST" name="tearDownMethod" finished-at="2022-04-15T17:58:21 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@28f3b248]" started-at="2022-04-15T17:58:21 IST" name="closeBrowser" finished-at="2022-04-15T17:58:23 IST" duration-ms="2406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC06VerifyLogout -->
+      <class name="com.SauceDemo.TestClasses.TC07Handledropdown">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC07Handledropdown@581ac8a8]" started-at="2022-04-15T17:58:11 IST" name="openBrowser" finished-at="2022-04-15T17:58:18 IST" duration-ms="7250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC07Handledropdown@581ac8a8]" started-at="2022-04-15T17:58:18 IST" name="setUpMethod" finished-at="2022-04-15T17:58:19 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="verifyDropDown()[pri:5, instance:com.SauceDemo.TestClasses.TC07Handledropdown@581ac8a8]" started-at="2022-04-15T17:58:19 IST" name="verifyDropDown" finished-at="2022-04-15T17:58:19 IST" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDropDown -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC07Handledropdown@581ac8a8]" started-at="2022-04-15T17:58:19 IST" name="tearDownMethod" finished-at="2022-04-15T17:58:20 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC07Handledropdown@581ac8a8]" started-at="2022-04-15T17:58:20 IST" name="closeBrowser" finished-at="2022-04-15T17:58:22 IST" duration-ms="2331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC07Handledropdown -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-04-15T17:58:23 IST" name="Test2" finished-at="2022-04-15T17:59:50 IST" duration-ms="87038">
+      <class name="com.SauceDemo.TestClasses.TC03ClickOncartButton">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@bae7dc0]" started-at="2022-04-15T17:58:23 IST" name="openBrowser" finished-at="2022-04-15T17:58:55 IST" duration-ms="31656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@bae7dc0]" started-at="2022-04-15T17:58:55 IST" name="setUpMethod" finished-at="2022-04-15T17:58:56 IST" duration-ms="1141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="VerifyableToBuyProd()[pri:2, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@bae7dc0]" started-at="2022-04-15T17:58:56 IST" name="VerifyableToBuyProd" finished-at="2022-04-15T17:58:57 IST" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyableToBuyProd -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@bae7dc0]" started-at="2022-04-15T17:58:57 IST" name="tearDownMethod" finished-at="2022-04-15T17:58:58 IST" duration-ms="1306" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9OJ0MAP', ip: '192.168.113.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 99.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220411174855, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 12088, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5d0a144a-ed73-451f-8fc0-009b4c14e994]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9OJ0MAP', ip: '192.168.113.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 99.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220411174855, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 12088, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5d0a144a-ed73-451f-8fc0-009b4c14e994
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at com.SauceDemo.pomClasses.Homepage.logoutbuttclick(Homepage.java:76)
+at com.SauceDemo.TestClasses.BaseForLoginLogout.tearDownMethod(BaseForLoginLogout.java:36)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.runAfterGroupsConfigurations(TestInvoker.java:676)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:660)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC03ClickOncartButton@bae7dc0]" started-at="2022-04-15T17:58:58 IST" name="closeBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1650025738748" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC03ClickOncartButton -->
+      <class name="com.SauceDemo.TestClasses.TC01LoginFunctionality">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@52af26ee]" started-at="2022-04-15T17:58:23 IST" name="openBrowser" finished-at="2022-04-15T17:58:56 IST" duration-ms="32249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@52af26ee]" started-at="2022-04-15T17:58:56 IST" name="setUpMethod" finished-at="2022-04-15T17:58:57 IST" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@52af26ee]" started-at="2022-04-15T17:58:57 IST" name="closeBrowser" finished-at="2022-04-15T17:59:17 IST" duration-ms="19456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC01LoginFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC02AddtochartFunctionality">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:58:23 IST" name="openBrowser" finished-at="2022-04-15T17:58:56 IST" duration-ms="32335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:58:56 IST" name="setUpMethod" finished-at="2022-04-15T17:58:58 IST" duration-ms="1911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="verifyAddTocartFunctionality()[pri:1, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:58:58 IST" name="verifyAddTocartFunctionality" finished-at="2022-04-15T17:58:59 IST" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddTocartFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:58:59 IST" name="tearDownMethod" finished-at="2022-04-15T17:59:01 IST" duration-ms="2024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:59:01 IST" name="setUpMethod" finished-at="2022-04-15T17:59:02 IST" duration-ms="1562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="verifyAddTocartFunctionality()[pri:1, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:59:02 IST" name="verifyAddTocartFunctionality" finished-at="2022-04-15T17:59:04 IST" duration-ms="1264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddTocartFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:59:04 IST" name="tearDownMethod" finished-at="2022-04-15T17:59:05 IST" duration-ms="1257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:59:05 IST" name="setUpMethod" finished-at="2022-04-15T17:59:06 IST" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="verifyAddTocartFunctionality()[pri:1, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:59:06 IST" name="verifyAddTocartFunctionality" finished-at="2022-04-15T17:59:07 IST" duration-ms="1893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddTocartFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:59:07 IST" name="tearDownMethod" finished-at="2022-04-15T17:59:09 IST" duration-ms="1430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC02AddtochartFunctionality@74751b3]" started-at="2022-04-15T17:59:09 IST" name="closeBrowser" finished-at="2022-04-15T17:59:18 IST" duration-ms="9457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC02AddtochartFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC06VerifyLogout">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@6fd83fc1]" started-at="2022-04-15T17:58:58 IST" name="openBrowser" finished-at="2022-04-15T17:59:40 IST" duration-ms="41686" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@6fd83fc1]" started-at="2022-04-15T17:59:40 IST" name="setUpMethod" finished-at="2022-04-15T17:59:41 IST" duration-ms="1189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="TC06VerifyLogoutFunctionality()[pri:6, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@6fd83fc1]" started-at="2022-04-15T17:59:41 IST" name="TC06VerifyLogoutFunctionality" finished-at="2022-04-15T17:59:41 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06VerifyLogoutFunctionality -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@6fd83fc1]" started-at="2022-04-15T17:59:41 IST" name="tearDownMethod" finished-at="2022-04-15T17:59:42 IST" duration-ms="789" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9OJ0MAP', ip: '192.168.113.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 99.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220411174855, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 23736, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1054eaca-6c11-46b4-8532-a73d348caebe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9OJ0MAP', ip: '192.168.113.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 99.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220411174855, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 23736, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1054eaca-6c11-46b4-8532-a73d348caebe
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at com.SauceDemo.pomClasses.Homepage.logoutbuttclick(Homepage.java:76)
+at com.SauceDemo.TestClasses.BaseForLoginLogout.tearDownMethod(BaseForLoginLogout.java:36)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.runAfterGroupsConfigurations(TestInvoker.java:676)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:660)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC06VerifyLogout@6fd83fc1]" started-at="2022-04-15T17:59:42 IST" name="closeBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1650025782462" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC06VerifyLogout -->
+      <class name="com.SauceDemo.TestClasses.TC05BuyingProd">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC05BuyingProd@4f2b503c]" started-at="2022-04-15T17:58:23 IST" name="openBrowser" finished-at="2022-04-15T17:58:54 IST" duration-ms="30480" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC05BuyingProd@4f2b503c]" started-at="2022-04-15T17:58:54 IST" name="setUpMethod" finished-at="2022-04-15T17:58:55 IST" duration-ms="1205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="TC05VerifyTheYourInfoInCartButt()[pri:4, instance:com.SauceDemo.TestClasses.TC05BuyingProd@4f2b503c]" started-at="2022-04-15T17:58:55 IST" name="TC05VerifyTheYourInfoInCartButt" finished-at="2022-04-15T17:58:57 IST" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05VerifyTheYourInfoInCartButt -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC05BuyingProd@4f2b503c]" started-at="2022-04-15T17:58:57 IST" name="tearDownMethod" finished-at="2022-04-15T17:58:58 IST" duration-ms="835" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9OJ0MAP', ip: '192.168.113.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 99.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220411174855, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 14412, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d2017380-3d4d-4b27-bed3-26e06e20c97c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9OJ0MAP', ip: '192.168.113.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 99.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220411174855, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:processID: 14412, moz:profile: C:\Users\Dell\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d2017380-3d4d-4b27-bed3-26e06e20c97c
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at com.SauceDemo.pomClasses.Homepage.logoutbuttclick(Homepage.java:76)
+at com.SauceDemo.TestClasses.BaseForLoginLogout.tearDownMethod(BaseForLoginLogout.java:36)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.runAfterGroupsConfigurations(TestInvoker.java:676)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:660)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC05BuyingProd@4f2b503c]" started-at="2022-04-15T17:58:58 IST" name="closeBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1650025738746" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC05BuyingProd -->
+      <class name="com.SauceDemo.TestClasses.TC07Handledropdown">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC07Handledropdown@209da20d]" started-at="2022-04-15T17:58:58 IST" name="openBrowser" finished-at="2022-04-15T17:59:40 IST" duration-ms="41744" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC07Handledropdown@209da20d]" started-at="2022-04-15T17:59:40 IST" name="setUpMethod" finished-at="2022-04-15T17:59:41 IST" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="verifyDropDown()[pri:5, instance:com.SauceDemo.TestClasses.TC07Handledropdown@209da20d]" started-at="2022-04-15T17:59:41 IST" name="verifyDropDown" finished-at="2022-04-15T17:59:42 IST" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDropDown -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.SauceDemo.TestClasses.TC07Handledropdown@209da20d]" started-at="2022-04-15T17:59:42 IST" name="tearDownMethod" finished-at="2022-04-15T17:59:43 IST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.SauceDemo.TestClasses.TC07Handledropdown@209da20d]" started-at="2022-04-15T17:59:43 IST" name="closeBrowser" finished-at="2022-04-15T17:59:50 IST" duration-ms="7821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SauceDemo.TestClasses.TC07Handledropdown -->
+    </test> <!-- Test2 -->
+  </suite> <!-- sauceDemov1Suite -->
+</testng-results>

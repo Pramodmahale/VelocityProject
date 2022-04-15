@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="sauceDemov1Suite">
+  <test  name="Test1" parallel="classes" thread-count="4" >
+  <parameter name="browserName" value="chrome" > </parameter>
+    <classes>
+     
+      <class name="com.SauceDemo.TestClasses.TC02AddtochartFunctionality"/>
+      <class name="com.SauceDemo.TestClasses.TC01LoginFunctionality"/>
+      <class name="com.SauceDemo.TestClasses.TC06VerifyLogout"/>
+      <class name="com.SauceDemo.TestClasses.TC05BuyingProd"/>
+      <class name="com.SauceDemo.TestClasses.TC03ClickOncartButton"/>
+      <class name="com.SauceDemo.TestClasses.TC07Handledropdown"/>
+    </classes>
+  </test> <!-- Test -->
+  <test  name="Test2" parallel="classes" thread-count="4" > 
+  <parameter name="browserName" value="firefox" > </parameter>
+    <classes>
+     
+      <class name="com.SauceDemo.TestClasses.TC02AddtochartFunctionality"/>
+     <class name="com.SauceDemo.TestClasses.TC01LoginFunctionality"/>
+     <class name="com.SauceDemo.TestClasses.TC06VerifyLogout"/>
+      <class name="com.SauceDemo.TestClasses.TC05BuyingProd"/>
+      <class name="com.SauceDemo.TestClasses.TC03ClickOncartButton"/>
+      <class name="com.SauceDemo.TestClasses.TC07Handledropdown"/>
+    </classes> 
+  </test> <!-- Test -->
+</suite> <!-- sauceDemov1Suite -->
